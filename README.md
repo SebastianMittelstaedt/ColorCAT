@@ -6,7 +6,7 @@ This tool helps you to design colormaps for your data visualization. Please take
 
 ## Pre-release info
 
-This is a pre-release. I will provide the first release of ColorCat_1.0 very soon (approx. 05.05.2015), including a complete manual and a video matching the version. 
+This is a pre-release. I will provide the first release of ColorCat_1.0 very soon (approx. 05.06.2015), including a complete manual and a video matching the version. 
 
 ## Quick-Start
 
