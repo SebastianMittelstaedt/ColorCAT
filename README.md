@@ -11,8 +11,9 @@ This is a pre-release. I will provide the first release of ColorCat_1.0 very soo
 ## Quick-Start
 
 1. If you haven't already, please download and install Java: https://java.com/de/download/
-2. You should be able to start ColorCAT with the `*.jar` otherwise open the command prompt and type: `java -jar ColorCAT_0.9.jar`.
-3. If ColorCAT starts, you can start designing your colormap.
+2. Download ColorCAT by either cloning the repository, downloading the zip file (right side of this page), or click here on the file and then get the "raw" file on the following page.
+3. You should be able to start ColorCAT with the `*.jar` otherwise open the command prompt and type: `java -jar ColorCAT_0.9.jar`.
+4. If ColorCAT starts, you can start designing your colormap.
 
 ## General Workflow
 (Please refer to the video, especially for the interactive parts.)
