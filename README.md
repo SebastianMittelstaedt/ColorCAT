@@ -26,6 +26,20 @@ This is a pre-release. I will provide the first release of ColorCat_1.0 very soo
 3. If you want, you can design your own colormap by using the colorpicker tool. ColorCAT will take care that the colormap that you design matches the analysis task. You can add knots (click in the color area), remove knots (click on knots), or rotate knots (dragging the mouse in circular fashion).
 4. If you are satisfied, you can export the colormap by clicking on "Save to File". You can select the output format and the file for the export.
 
+## How to cite
+Please cite ColorCAT with:
+`@inproceedings {mittelstaedt2015colorcat,
+	booktitle = {Eurographics Conference on Visualization (EuroVis) - Short Papers},
+	editor = {E. Bertini and J. Kennedy and E. Puppo},
+	title = {{ColorCAT: Guided Design of Colormaps for Combined Analysis Tasks}},
+	author = {Mittelstädt, Sebastian and Jäckle, Dominik and Stoffel, Florian and Keim, Daniel A.},
+	year = {2015},
+	pages = {115--119},
+	publisher = {The Eurographics Association},
+	DOI = {10.2312/eurovisshort.20151135}
+}`
+
+
 
 
 
