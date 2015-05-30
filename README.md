@@ -28,6 +28,7 @@ This is a pre-release. I will provide the first release of ColorCat_1.0 very soo
 
 ## How to cite
 Please cite ColorCAT with:
+
 `@inproceedings {mittelstaedt2015colorcat,
 	booktitle = {Eurographics Conference on Visualization (EuroVis) - Short Papers},
 	editor = {E. Bertini and J. Kennedy and E. Puppo},
